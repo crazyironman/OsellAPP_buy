@@ -77,6 +77,20 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
 .table_cell {
 }
 .sticky_2 {
@@ -87,6 +101,8 @@
 .box_11 {
 }
 .ellipse {
+}
+.button {
 }
 .primary_button {
   color:#FFFFFF;
