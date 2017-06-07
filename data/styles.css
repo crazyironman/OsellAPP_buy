@@ -129,3 +129,17 @@
 }
 .box_3 {
 }
+._图片 {
+  color:#000000;
+}
+._水平线 {
+}
+.shape {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
