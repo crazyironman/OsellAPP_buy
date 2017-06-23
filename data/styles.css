@@ -100,6 +100,8 @@
 }
 .box_11 {
 }
+._图片 {
+}
 .box_2 {
 }
 .ellipse {
@@ -109,10 +111,19 @@
 .primary_button {
   color:#FFFFFF;
 }
+._标题11 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._形状 {
+}
 ._图像1 {
   color:#000000;
 }
-._形状 {
+._形状1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -131,7 +142,7 @@
 }
 .box_3 {
 }
-._图片 {
+._图片1 {
   color:#000000;
 }
 ._水平线 {
@@ -144,4 +155,19 @@
   color:#333333;
   text-align:center;
   line-height:normal;
+}
+.marker {
+  color:#FFFFFF;
+}
+.image {
+  color:#000000;
+}
+._文本1 {
+  text-align:left;
+}
+.box_21 {
+}
+.image1 {
+}
+.line1 {
 }
