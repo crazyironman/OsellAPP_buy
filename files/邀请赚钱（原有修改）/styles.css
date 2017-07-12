@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u295_img {
+#u299_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:375px;
   height:666px;
 }
-#u295 {
+#u299 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -28,76 +28,12 @@
   width:375px;
   height:666px;
 }
-#u296 {
+#u300 {
   border-width:0px;
   position:absolute;
   left:2px;
   top:325px;
   width:371px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u297_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:300px;
-  height:48px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u297 {
-  border-width:0px;
-  position:absolute;
-  left:585px;
-  top:55px;
-  width:300px;
-  height:48px;
-}
-#u298 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:300px;
-  word-wrap:break-word;
-}
-#u299 {
-  border-width:0px;
-  position:absolute;
-  left:75px;
-  top:175px;
-  width:0px;
-  height:0px;
-}
-#u299_seg0 {
-  border-width:0px;
-  position:absolute;
-  left:-4px;
-  top:-119px;
-  width:8px;
-  height:119px;
-}
-#u299_seg1 {
-  border-width:0px;
-  position:absolute;
-  left:-4px;
-  top:-119px;
-  width:504px;
-  height:8px;
-}
-#u300 {
-  border-width:0px;
-  position:absolute;
-  left:142px;
-  top:-123px;
-  width:100px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -107,7 +43,7 @@
   left:0px;
   top:0px;
   width:300px;
-  height:96px;
+  height:48px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -119,10 +55,10 @@
 #u301 {
   border-width:0px;
   position:absolute;
-  left:610px;
-  top:334px;
+  left:585px;
+  top:55px;
   width:300px;
-  height:96px;
+  height:48px;
 }
 #u302 {
   border-width:0px;
@@ -135,24 +71,32 @@
 #u303 {
   border-width:0px;
   position:absolute;
-  left:380px;
-  top:375px;
+  left:75px;
+  top:175px;
   width:0px;
   height:0px;
 }
 #u303_seg0 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:-4px;
-  width:219px;
+  left:-4px;
+  top:-119px;
+  width:8px;
+  height:119px;
+}
+#u303_seg1 {
+  border-width:0px;
+  position:absolute;
+  left:-4px;
+  top:-119px;
+  width:504px;
   height:8px;
 }
 #u304 {
   border-width:0px;
   position:absolute;
-  left:58px;
-  top:-8px;
+  left:142px;
+  top:-123px;
   width:100px;
   visibility:hidden;
   word-wrap:break-word;
@@ -163,7 +107,7 @@
   left:0px;
   top:0px;
   width:300px;
-  height:80px;
+  height:96px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -176,9 +120,9 @@
   border-width:0px;
   position:absolute;
   left:610px;
-  top:515px;
+  top:334px;
   width:300px;
-  height:80px;
+  height:96px;
 }
 #u306 {
   border-width:0px;
@@ -191,8 +135,8 @@
 #u307 {
   border-width:0px;
   position:absolute;
-  left:382px;
-  top:568px;
+  left:380px;
+  top:375px;
   width:0px;
   height:0px;
 }
@@ -232,11 +176,67 @@
   border-width:0px;
   position:absolute;
   left:610px;
-  top:705px;
+  top:515px;
   width:300px;
   height:80px;
 }
 #u310 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  word-wrap:break-word;
+}
+#u311 {
+  border-width:0px;
+  position:absolute;
+  left:382px;
+  top:568px;
+  width:0px;
+  height:0px;
+}
+#u311_seg0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:-4px;
+  width:219px;
+  height:8px;
+}
+#u312 {
+  border-width:0px;
+  position:absolute;
+  left:58px;
+  top:-8px;
+  width:100px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u313_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:80px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u313 {
+  border-width:0px;
+  position:absolute;
+  left:610px;
+  top:705px;
+  width:300px;
+  height:80px;
+}
+#u314 {
   border-width:0px;
   position:absolute;
   left:0px;
