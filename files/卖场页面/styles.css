@@ -2996,3 +2996,23 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u583 {
+  border-width:0px;
+  position:absolute;
+  left:155px;
+  top:236px;
+  width:85px;
+  height:65px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u584 {
+  border-width:0px;
+  position:absolute;
+  left:275px;
+  top:236px;
+  width:75px;
+  height:65px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
