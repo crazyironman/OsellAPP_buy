@@ -260,7 +260,6 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:12px;
 }
 #u907 {
   border-width:0px;
@@ -272,7 +271,6 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:12px;
 }
 #u908 {
   border-width:0px;
@@ -924,7 +922,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:10px;
+  top:2px;
   width:86px;
   word-wrap:break-word;
 }
