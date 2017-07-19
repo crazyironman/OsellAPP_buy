@@ -1,0 +1,384 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>卡包列表</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/卡包列表/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/卡包列表/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1351" class="ax_default box_1">
+        <div id="u1351_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1352" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1353" class="ax_default box_11">
+        <img id="u1353_img" class="img " src="images/卡包列表/u1353.png"/>
+        <!-- Unnamed () -->
+        <div id="u1354" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1355" class="ax_default box_1">
+        <div id="u1355_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1356" class="text">
+          <p><span>我的优惠券</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u1357" class="ax_default _图像">
+        <img id="u1357_img" class="img " src="images/卖场页面/u393.png"/>
+        <!-- Unnamed () -->
+        <div id="u1358" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1359" class="ax_default _标题1">
+        <div id="u1359_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1360" class="text">
+          <p><span>XXX供应商</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1361" class="ax_default _标题1">
+        <div id="u1361_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1362" class="text">
+          <p><span>5折优惠卡</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u1363" class="ax_default line">
+        <img id="u1363_img" class="img " src="images/卡包列表/u1363.png"/>
+        <!-- Unnamed () -->
+        <div id="u1364" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u1365" class="ax_default ellipse">
+        <img id="u1365_img" class="img " src="images/卡包列表/u1365.png"/>
+        <!-- Unnamed () -->
+        <div id="u1366" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1367" class="ax_default _标题1">
+        <div id="u1367_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1368" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1369" class="ax_default _标题1">
+        <div id="u1369_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1370" class="text">
+          <p><span>限俄罗斯地区使用</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1371" class="ax_default _标题1">
+        <div id="u1371_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1372" class="text">
+          <p><span>限五金产品</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1373" class="ax_default _标题1">
+        <div id="u1373_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1374" class="text">
+          <p><span>网上店铺</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1375" class="ax_default box_11">
+        <img id="u1375_img" class="img " src="images/卡包列表/u1353.png"/>
+        <!-- Unnamed () -->
+        <div id="u1376" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1377" class="ax_default _标题1">
+        <div id="u1377_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1378" class="text">
+          <p><span>XXX供应商</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1379" class="ax_default _标题1">
+        <div id="u1379_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1380" class="text">
+          <p><span>5折优惠卡</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u1381" class="ax_default line">
+        <img id="u1381_img" class="img " src="images/卡包列表/u1363.png"/>
+        <!-- Unnamed () -->
+        <div id="u1382" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u1383" class="ax_default ellipse">
+        <img id="u1383_img" class="img " src="images/卡包列表/u1365.png"/>
+        <!-- Unnamed () -->
+        <div id="u1384" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1385" class="ax_default _标题1">
+        <div id="u1385_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1386" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1387" class="ax_default _标题1">
+        <div id="u1387_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1388" class="text">
+          <p><span>限五金产品</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1389" class="ax_default _标题1">
+        <div id="u1389_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1390" class="text">
+          <p><span>限五金产品</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1391" class="ax_default _标题1">
+        <div id="u1391_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1392" class="text">
+          <p><span>无门槛</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1393" class="ax_default box_11">
+        <img id="u1393_img" class="img " src="images/卡包列表/u1353.png"/>
+        <!-- Unnamed () -->
+        <div id="u1394" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1395" class="ax_default _标题1">
+        <div id="u1395_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1396" class="text">
+          <p><span>XXX供应商</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1397" class="ax_default _标题1">
+        <div id="u1397_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1398" class="text">
+          <p><span>5折优惠卡</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u1399" class="ax_default line">
+        <img id="u1399_img" class="img " src="images/卡包列表/u1363.png"/>
+        <!-- Unnamed () -->
+        <div id="u1400" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u1401" class="ax_default ellipse">
+        <img id="u1401_img" class="img " src="images/卡包列表/u1365.png"/>
+        <!-- Unnamed () -->
+        <div id="u1402" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1403" class="ax_default _标题1">
+        <div id="u1403_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1404" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1405" class="ax_default _标题1">
+        <div id="u1405_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1406" class="text">
+          <p><span>限五金产品</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1407" class="ax_default _标题1">
+        <div id="u1407_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1408" class="text">
+          <p><span>限五金产品</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1409" class="ax_default _标题1">
+        <div id="u1409_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1410" class="text">
+          <p><span>无门槛</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1411" class="ax_default box_11">
+        <img id="u1411_img" class="img " src="images/卡包列表/u1353.png"/>
+        <!-- Unnamed () -->
+        <div id="u1412" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1413" class="ax_default _标题1">
+        <div id="u1413_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1414" class="text">
+          <p><span>XXX供应商</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1415" class="ax_default _标题1">
+        <div id="u1415_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1416" class="text">
+          <p><span>5折优惠卡</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u1417" class="ax_default line">
+        <img id="u1417_img" class="img " src="images/卡包列表/u1363.png"/>
+        <!-- Unnamed () -->
+        <div id="u1418" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u1419" class="ax_default ellipse">
+        <img id="u1419_img" class="img " src="images/卡包列表/u1365.png"/>
+        <!-- Unnamed () -->
+        <div id="u1420" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1421" class="ax_default _标题1">
+        <div id="u1421_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1422" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1423" class="ax_default _标题1">
+        <div id="u1423_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1424" class="text">
+          <p><span>限五金产品</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1425" class="ax_default _标题1">
+        <div id="u1425_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1426" class="text">
+          <p><span>限五金产品</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1427" class="ax_default _标题1">
+        <div id="u1427_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1428" class="text">
+          <p><span>无门槛</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像热区) -->
+      <div id="u1429" class="ax_default">
+      </div>
+    </div>
+  </body>
+</html>

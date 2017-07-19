@@ -1,0 +1,510 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>砸金蛋（设计）</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/砸金蛋（设计）/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/砸金蛋（设计）/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (图像) -->
+      <div id="u3581" class="ax_default _图像">
+        <img id="u3581_img" class="img " src="images/砸金蛋（设计）/u3581.jpg"/>
+        <!-- Unnamed () -->
+        <div id="u3582" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u3583" class="ax_default _图像">
+        <img id="u3583_img" class="img " src="images/砸金蛋（设计）/u3583.png"/>
+        <!-- Unnamed () -->
+        <div id="u3584" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3585" class="ax_default _文本">
+        <div id="u3585_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3586" class="text">
+          <p><span>基本规则为：消耗2积分换取一次砸金蛋机会，每砸一次金蛋可获得分值分为1/5/10三个等级，前10次每次必中奖，10次之后中奖几率降低。抽中积分即时到账。</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u3587" class="ax_default _图像">
+        <img id="u3587_img" class="img " src="images/砸金蛋（设计）/u3587.png"/>
+        <!-- Unnamed () -->
+        <div id="u3588" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3589" class="ax_default _文本">
+        <div id="u3589_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3590" class="text">
+          <p><span>参与条件：</span></p><p><span>1、登录用户</span></p><p><span>2、至少拥有2个积分</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u3591" class="ax_default">
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3592" class="ax_default">
+          <img id="u3592_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3593" class="text">
+            <p><span>1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3594" class="ax_default">
+          <img id="u3594_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3595" class="text">
+            <p><span>1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3596" class="ax_default">
+          <img id="u3596_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3597" class="text">
+            <p><span>1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3598" class="ax_default">
+          <img id="u3598_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3599" class="text">
+            <p><span>1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3600" class="ax_default">
+          <img id="u3600_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3601" class="text">
+            <p><span>1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3602" class="ax_default">
+          <img id="u3602_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3603" class="text">
+            <p><span>1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3604" class="ax_default">
+          <img id="u3604_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3605" class="text">
+            <p><span>1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3606" class="ax_default">
+          <img id="u3606_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3607" class="text">
+            <p><span>5</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3608" class="ax_default">
+          <img id="u3608_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3609" class="text">
+            <p><span>5</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3610" class="ax_default">
+          <img id="u3610_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3611" class="text">
+            <p><span>10</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3612" class="ax_default">
+          <img id="u3612_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3613" class="text">
+            <p><span>0</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3614" class="ax_default">
+          <img id="u3614_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3615" class="text">
+            <p><span>0</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3616" class="ax_default">
+          <img id="u3616_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3617" class="text">
+            <p><span>0</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3618" class="ax_default">
+          <img id="u3618_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3619" class="text">
+            <p><span>0</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3620" class="ax_default">
+          <img id="u3620_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3621" class="text">
+            <p><span>1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3622" class="ax_default">
+          <img id="u3622_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3623" class="text">
+            <p><span>1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3624" class="ax_default">
+          <img id="u3624_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3625" class="text">
+            <p><span>5</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3626" class="ax_default">
+          <img id="u3626_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3627" class="text">
+            <p><span>10</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3628" class="ax_default">
+          <img id="u3628_img" class="img " src="images/砸金蛋（设计）/u3592.png"/>
+          <!-- Unnamed () -->
+          <div id="u3629" class="text">
+            <p><span>0</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (表格单元) -->
+        <div id="u3630" class="ax_default">
+          <img id="u3630_img" class="img " src="images/砸金蛋（设计）/u3630.png"/>
+          <!-- Unnamed () -->
+          <div id="u3631" class="text">
+            <p><span>0</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3632" class="ax_default _文本">
+        <div id="u3632_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3633" class="text">
+          <p><span>奖品发放逻辑：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (花括号) -->
+      <div id="u3634" class="ax_default box_11">
+        <img id="u3634_img" class="img " src="images/砸金蛋（设计）/u3634.png"/>
+        <!-- Unnamed () -->
+        <div id="u3635" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3636" class="ax_default _文本">
+        <div id="u3636_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3637" class="text">
+          <p><span>前</span></p><p><span>10</span></p><p><span>次</span></p><p><span><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (花括号) -->
+      <div id="u3638" class="ax_default box_11">
+        <img id="u3638_img" class="img " src="images/砸金蛋（设计）/u3638.png"/>
+        <!-- Unnamed () -->
+        <div id="u3639" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3640" class="ax_default _文本">
+        <div id="u3640_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3641" class="text">
+          <p><span>后</span></p><p><span>10</span></p><p><span>次</span></p><p><span><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3642" class="ax_default _文本">
+        <div id="u3642_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3643" class="text">
+          <p><span>大于20次，均为0</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3644" class="ax_default box_1">
+        <div id="u3644_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3645" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3646" class="ax_default box_1">
+        <div id="u3646_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3647" class="text">
+          <p><span>砸金蛋活动</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u3648" class="ax_default _图像">
+        <img id="u3648_img" class="img " src="images/卖场页面/u393.png"/>
+        <!-- Unnamed () -->
+        <div id="u3649" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3650" class="ax_default _文本">
+        <div id="u3650_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3651" class="text">
+          <p><span>奋力砸金蛋，好礼送不断</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u3652" class="ax_default ellipse">
+        <img id="u3652_img" class="img " src="images/砸金蛋（设计）/u3652.png"/>
+        <!-- Unnamed () -->
+        <div id="u3653" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3654" class="ax_default box_11">
+        <div id="u3654_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3655" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3656" class="ax_default _标题1">
+        <div id="u3656_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3657" class="text">
+          <p><span>中奖明细</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3658" class="ax_default _文本">
+        <div id="u3658_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3659" class="text">
+          <p><span>nichenXXXX&nbsp; &nbsp; &nbsp; 10积分&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2017-09-12 10:41:12</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u3660" class="ax_default _形状1">
+        <img id="u3660_img" class="img " src="images/砸金蛋（设计）/u3660.png"/>
+        <!-- Unnamed () -->
+        <div id="u3661" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3662" class="ax_default sticky_2">
+        <div id="u3662_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3663" class="text">
+          <p><span>积分抽奖历史明细，倒叙排列，一次加载10条数据，滑动一屛加载10条数据</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u3664" class="ax_default _连接符">
+        <img id="u3664_seg0" class="img " src="images/砸金蛋（设计）/u3664_seg0.png" alt="u3664_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u3665" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3666" class="ax_default box_11">
+        <div id="u3666_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3667" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u3668" class="ax_default ellipse">
+        <img id="u3668_img" class="img " src="images/砸金蛋（设计）/u3652.png"/>
+        <!-- Unnamed () -->
+        <div id="u3669" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u3670" class="ax_default ellipse">
+        <img id="u3670_img" class="img " src="images/砸金蛋（设计）/u3652.png"/>
+        <!-- Unnamed () -->
+        <div id="u3671" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u3672" class="ax_default ellipse">
+        <img id="u3672_img" class="img " src="images/砸金蛋（设计）/u3652.png"/>
+        <!-- Unnamed () -->
+        <div id="u3673" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3674" class="ax_default _标题1">
+        <div id="u3674_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3675" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3676" class="ax_default _标题1">
+        <div id="u3676_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3677" class="text">
+          <p><span>活动简介</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3678" class="ax_default _文本">
+        <div id="u3678_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3679" class="text">
+          <p><span>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</span></p><p><span><br></span></p><p><span><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3680" class="ax_default box_11">
+        <div id="u3680_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3681" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3682" class="ax_default _标题1">
+        <div id="u3682_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3683" class="text">
+          <p><span>产品提供商</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3684" class="ax_default _文本">
+        <div id="u3684_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3685" class="text">
+          <p><span>介绍：XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3686" class="ax_default _文本">
+        <div id="u3686_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3687" class="text">
+          <p><span>活动抽奖增加冷却时间</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

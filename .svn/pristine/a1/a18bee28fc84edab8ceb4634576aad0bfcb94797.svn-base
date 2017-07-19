@@ -1,0 +1,236 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>砍价分享首页2</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/砍价分享首页2/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/砍价分享首页2/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5699" class="ax_default box_3">
+        <div id="u5699_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5700" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5701" class="ax_default _标题1">
+        <div id="u5701_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5702" class="text">
+          <p><span>已经有XXX为好友为我砍掉了XX元，请你也快行动吧！</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5703" class="ax_default primary_button">
+        <div id="u5703_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5704" class="text">
+          <p><span>帮我砍一刀（已有账号）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5705" class="ax_default flow_shape">
+        <div id="u5705_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5706" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u5707" class="ax_default placeholder">
+        <img id="u5707_img" class="img " src="images/砍价分享首页/u5619.png"/>
+        <!-- Unnamed () -->
+        <div id="u5708" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5709" class="ax_default box_1">
+        <div id="u5709_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5710" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产...</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5711" class="ax_default _文本">
+        <div id="u5711_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5712" class="text">
+          <p><span>呼唤朋友们来帮我砍价呀</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5713" class="ax_default _标题1">
+        <div id="u5713_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5714" class="text">
+          <p><span>活动规则 ：</span></p><p><span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5715" class="ax_default _标题1">
+        <div id="u5715_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5716" class="text">
+          <p><span>我也要去捡趴活</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u5717" class="ax_default line">
+        <img id="u5717_img" class="img " src="images/砍价分享首页/u5629.png"/>
+        <!-- Unnamed () -->
+        <div id="u5718" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u5719" class="ax_default ellipse">
+        <img id="u5719_img" class="img " src="images/砍价分享首页/u5631.png"/>
+        <!-- Unnamed () -->
+        <div id="u5720" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u5721" class="ax_default ellipse">
+        <img id="u5721_img" class="img " src="images/砍价分享首页/u5633.png"/>
+        <!-- Unnamed () -->
+        <div id="u5722" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5723" class="ax_default _标题2">
+        <div id="u5723_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5724" class="text">
+          <p><span>点击被分享的链接打开网页</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5725" class="ax_default _文本">
+        <div id="u5725_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5726" class="text">
+          <p><span>精美活动背景图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5727" class="ax_default _标题2">
+        <div id="u5727_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5728" class="text">
+          <p><span>注册或登录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u5729" class="ax_default ellipse">
+        <img id="u5729_img" class="img " src="images/砍价分享首页/u5641.png"/>
+        <!-- Unnamed () -->
+        <div id="u5730" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5731" class="ax_default _标题2">
+        <div id="u5731_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5732" class="text">
+          <p><span>帮忙砍价成功</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5733" class="ax_default _标题1">
+        <div id="u5733_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5734" class="text">
+          <p><span>1、点击好友分享链接，并打开网页</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5735" class="ax_default _标题1">
+        <div id="u5735_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5736" class="text">
+          <p><span>2、如已有Osell账号请登录即可砍价成功能</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5737" class="ax_default _标题1">
+        <div id="u5737_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5738" class="text">
+          <p><span>3、注册Osell账号即可砍价成功</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5739" class="ax_default primary_button">
+        <div id="u5739_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5740" class="text">
+          <p><span>帮我砍一刀（还没有账号）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5741" class="ax_default _文本">
+        <div id="u5741_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5742" class="text">
+          <p><span>什么是砍价活动？</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5743" class="ax_default _文本">
+        <div id="u5743_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u5744" class="text">
+          <p><span>Help！！！</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
