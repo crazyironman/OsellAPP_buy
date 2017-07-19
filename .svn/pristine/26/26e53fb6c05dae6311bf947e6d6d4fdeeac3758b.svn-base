@@ -1,0 +1,605 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>申领产品详情页</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/申领产品详情页/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/申领产品详情页/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1276" class="ax_default box_1">
+        <div id="u1276_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1277" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1278" class="ax_default box_11">
+        <div id="u1278_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1279" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1280" class="ax_default box_1">
+        <div id="u1280_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1281" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u1282" class="ax_default placeholder">
+        <img id="u1282_img" class="img " src="images/申领产品详情页/u1282.png"/>
+        <!-- Unnamed () -->
+        <div id="u1283" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u1284" class="ax_default _图像">
+        <img id="u1284_img" class="img " src="images/申领产品详情页/u1284.png"/>
+        <!-- Unnamed () -->
+        <div id="u1285" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1286" class="ax_default _文本">
+        <div id="u1286_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1287" class="text">
+          <p><span>月立 电动修眉刀 魔发师负离子电吹风 组合 美容套装 博灏</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1288" class="ax_default box_11">
+        <div id="u1288_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1289" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u1290" class="ax_default icon">
+        <img id="u1290_img" class="img " src="images/申领产品详情页/u1290.png"/>
+        <!-- Unnamed () -->
+        <div id="u1291" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1292" class="ax_default _文本">
+        <div id="u1292_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1293" class="text">
+          <p><span>产品规格</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1294" class="ax_default box_11">
+        <div id="u1294_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1295" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1296" class="ax_default _文本">
+        <div id="u1296_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1297" class="text">
+          <p><span>礼物详情</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u1298" class="ax_default placeholder">
+        <img id="u1298_img" class="img " src="images/申领产品详情页/u1298.png"/>
+        <!-- Unnamed () -->
+        <div id="u1299" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u1300" class="ax_default placeholder">
+        <img id="u1300_img" class="img " src="images/申领产品详情页/u1298.png"/>
+        <!-- Unnamed () -->
+        <div id="u1301" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1302" class="ax_default primary_button">
+        <div id="u1302_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1303" class="text">
+          <p><span>Get Free</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u1304" class="ax_default ellipse">
+        <img id="u1304_img" class="img " src="images/申领产品详情页/u1304.png"/>
+        <!-- Unnamed () -->
+        <div id="u1305" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u1306" class="ax_default ellipse">
+        <img id="u1306_img" class="img " src="images/申领产品详情页/u1306.png"/>
+        <!-- Unnamed () -->
+        <div id="u1307" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u1308" class="ax_default ellipse">
+        <img id="u1308_img" class="img " src="images/申领产品详情页/u1306.png"/>
+        <!-- Unnamed () -->
+        <div id="u1309" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u1310" class="ax_default _连接符">
+        <img id="u1310_seg0" class="img " src="images/申领产品详情页/u1310_seg0.png" alt="u1310_seg0"/>
+        <img id="u1310_seg1" class="img " src="images/申领产品详情页/u1310_seg1.png" alt="u1310_seg1"/>
+        <img id="u1310_seg2" class="img " src="images/申领产品详情页/u1310_seg2.png" alt="u1310_seg2"/>
+        <img id="u1310_seg3" class="img " src="images/申领产品详情页/u1310_seg3.png" alt="u1310_seg3"/>
+        <!-- Unnamed () -->
+        <div id="u1311" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u1312" class="ax_default" data-left="469" data-top="162" data-width="160" data-height="96">
+
+        <!-- Unnamed (组合) -->
+        <div id="u1313" class="ax_default" data-left="469" data-top="162" data-width="83" data-height="83">
+
+          <!-- Unnamed (图像) -->
+          <div id="u1314" class="ax_default _图像1">
+            <img id="u1314_img" class="img " src="images/申领产品详情页/u1314.png"/>
+            <!-- Unnamed () -->
+            <div id="u1315" class="text" style="display:none; visibility: hidden">
+              <p><span></span></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (组合) -->
+        <div id="u1316" class="ax_default" data-left="546" data-top="162" data-width="83" data-height="83">
+
+          <!-- Unnamed (图像) -->
+          <div id="u1317" class="ax_default _图像1">
+            <img id="u1317_img" class="img " src="images/申领产品详情页/u1317.png"/>
+            <!-- Unnamed () -->
+            <div id="u1318" class="text" style="display:none; visibility: hidden">
+              <p><span></span></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u1319" class="ax_default _文本">
+          <div id="u1319_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u1320" class="text">
+            <p><span>左右滑动</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1321" class="ax_default sticky_1">
+        <div id="u1321_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1322" class="text">
+          <p><span>产品头图可以1-8张，每隔2秒进行循环切换</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1323" class="ax_default _文本">
+        <div id="u1323_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1324" class="text">
+          <p><span>企业介绍</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u1325" class="ax_default placeholder">
+        <img id="u1325_img" class="img " src="images/申领产品详情页/u1325.png"/>
+        <!-- Unnamed () -->
+        <div id="u1326" class="text">
+          <p><span>图文</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u1327" class="ax_default line">
+        <img id="u1327_img" class="img " src="images/申领产品详情页/u1327.png"/>
+        <!-- Unnamed () -->
+        <div id="u1328" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1329" class="ax_default _文本">
+        <div id="u1329_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1330" class="text">
+          <p><span>Other Products </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u1331" class="ax_default line">
+        <img id="u1331_img" class="img " src="images/申领产品详情页/u1331.png"/>
+        <!-- Unnamed () -->
+        <div id="u1332" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1333" class="ax_default box_1">
+        <div id="u1333_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1334" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1335" class="ax_default box_1">
+        <div id="u1335_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1336" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u1337" class="ax_default placeholder">
+        <img id="u1337_img" class="img " src="images/申领产品详情页/u1337.png"/>
+        <!-- Unnamed () -->
+        <div id="u1338" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u1339" class="ax_default placeholder">
+        <img id="u1339_img" class="img " src="images/申领产品详情页/u1337.png"/>
+        <!-- Unnamed () -->
+        <div id="u1340" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1341" class="ax_default box_1">
+        <div id="u1341_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1342" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产...</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1343" class="ax_default box_1">
+        <div id="u1343_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1344" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产...</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u1345" class="ax_default _图像">
+        <img id="u1345_img" class="img " src="images/申领产品详情页/u1345.png"/>
+        <!-- Unnamed () -->
+        <div id="u1346" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u1347" class="ax_default _图像">
+        <img id="u1347_img" class="img " src="images/申领产品详情页/u1347.png"/>
+        <!-- Unnamed () -->
+        <div id="u1348" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1349" class="ax_default box_11">
+        <div id="u1349_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1350" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1351" class="ax_default _文本">
+        <div id="u1351_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1352" class="text">
+          <p><span>产品属性 </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u1353" class="ax_default icon">
+        <img id="u1353_img" class="img " src="images/申领产品详情页/u1290.png"/>
+        <!-- Unnamed () -->
+        <div id="u1354" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1355" class="ax_default _文本">
+        <div id="u1355_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1356" class="text">
+          <p><span>加工定制</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1357" class="ax_default _文本">
+        <div id="u1357_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1358" class="text">
+          <p><span>否</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1359" class="ax_default _文本">
+        <div id="u1359_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1360" class="text">
+          <p><span>用途</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1361" class="ax_default _文本">
+        <div id="u1361_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1362" class="text">
+          <p><span>装饰品</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1363" class="ax_default _文本">
+        <div id="u1363_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1364" class="text">
+          <p><span>尺寸</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1365" class="ax_default _文本">
+        <div id="u1365_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1366" class="text">
+          <p><span>14X9.6mm</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1367" class="ax_default _文本">
+        <div id="u1367_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1368" class="text">
+          <p><span>样品详情页</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1369" class="ax_default box_11">
+        <div id="u1369_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1370" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u1371" class="ax_default icon">
+        <img id="u1371_img" class="img " src="images/申领产品详情页/u1290.png"/>
+        <!-- Unnamed () -->
+        <div id="u1372" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1373" class="ax_default _文本">
+        <div id="u1373_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1374" class="text">
+          <p><span>产品样式</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u1375" class="ax_default _连接符">
+        <img id="u1375_seg0" class="img " src="images/申领产品详情页/u1375_seg0.png" alt="u1375_seg0"/>
+        <img id="u1375_seg1" class="img " src="images/申领产品详情页/u1375_seg1.png" alt="u1375_seg1"/>
+        <img id="u1375_seg2" class="img " src="images/申领产品详情页/u1375_seg2.png" alt="u1375_seg2"/>
+        <img id="u1375_seg3" class="img " src="images/申领产品详情页/u1375_seg3.png" alt="u1375_seg3"/>
+        <!-- Unnamed () -->
+        <div id="u1376" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1377" class="ax_default sticky_1">
+        <div id="u1377_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1378" class="text">
+          <p><span>底部悬浮，跳转确认页</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u1379" class="ax_default _图像">
+        <img id="u1379_img" class="img " src="images/卖场页面/u399.png"/>
+        <!-- Unnamed () -->
+        <div id="u1380" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1381" class="ax_default box_11">
+        <div id="u1381_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1382" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1383" class="ax_default _文本">
+        <div id="u1383_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1384" class="text">
+          <p><span>说明：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1385" class="ax_default _文本">
+        <div id="u1385_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1386" class="text">
+          <p><span>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1387" class="ax_default _文本">
+        <div id="u1387_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1388" class="text">
+          <p><span>US $1.14</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1389" class="ax_default primary_button">
+        <div id="u1389_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1390" class="text">
+          <p><span>立即批发</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1391" class="ax_default _标题1">
+        <div id="u1391_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1392" class="text">
+          <p><span>库存量：12</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u1393" class="ax_default line">
+        <img id="u1393_img" class="img " src="images/申领产品详情页/u1393.png"/>
+        <!-- Unnamed () -->
+        <div id="u1394" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1395" class="ax_default box_11">
+        <div id="u1395_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1396" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u1397" class="ax_default placeholder">
+        <img id="u1397_img" class="img " src="images/申领产品详情页/u1397.png"/>
+        <!-- Unnamed () -->
+        <div id="u1398" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1399" class="ax_default _文本">
+        <div id="u1399_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1400" class="text">
+          <p><span>AK-47</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u1401" class="ax_default icon">
+        <img id="u1401_img" class="img " src="images/申领产品详情页/u1290.png"/>
+        <!-- Unnamed () -->
+        <div id="u1402" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

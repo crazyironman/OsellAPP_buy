@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>兑换确认页（虚拟）</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/兑换确认页（虚拟）/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/兑换确认页（虚拟）/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4888" class="ax_default box_1">
+        <div id="u4888_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4889" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4890" class="ax_default box_1">
+        <div id="u4890_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4891" class="text">
+          <p><span>兑换确认</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u4892" class="ax_default _图像">
+        <img id="u4892_img" class="img " src="images/卖场页面/u399.png"/>
+        <!-- Unnamed () -->
+        <div id="u4893" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u4894" class="ax_default line">
+        <img id="u4894_img" class="img " src="images/兑换确认页/u1692.png"/>
+        <!-- Unnamed () -->
+        <div id="u4895" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u4896" class="ax_default placeholder">
+        <img id="u4896_img" class="img " src="images/兑换确认页/u1702.png"/>
+        <!-- Unnamed () -->
+        <div id="u4897" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4898" class="ax_default _文本">
+        <div id="u4898_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4899" class="text">
+          <p><span>俄罗斯XXX电信运营商 50卢布话费</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4900" class="ax_default _文本">
+        <div id="u4900_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4901" class="text">
+          <p><span>请填写联系电话：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4902" class="ax_default primary_button">
+        <div id="u4902_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4903" class="text">
+          <p><span>确定</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4904" class="ax_default _文本">
+        <div id="u4904_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4905" class="text">
+          <p><span>耗费积分：500</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4906" class="ax_default box_11">
+        <div id="u4906_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4907" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4908" class="ax_default _文本">
+        <div id="u4908_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4909" class="text">
+          <p><span>兑换提示</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4910" class="ax_default _文本">
+        <div id="u4910_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4911" class="text">
+          <p><span>积分兑换奖品是大龙网为答谢客户提供的回馈服务，因此不提供报销凭证！</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u4912" class="ax_default line">
+        <img id="u4912_img" class="img " src="images/兑换确认页/u1730.png"/>
+        <!-- Unnamed () -->
+        <div id="u4913" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u4914" class="ax_default line">
+        <img id="u4914_img" class="img " src="images/兑换确认页/u1732.png"/>
+        <!-- Unnamed () -->
+        <div id="u4915" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4916" class="ax_default _文本">
+        <div id="u4916_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4917" class="text">
+          <p><span>确定兑换</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4918" class="ax_default _文本">
+        <div id="u4918_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4919" class="text">
+          <p><span>取消兑换</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4920" class="ax_default box_11">
+        <div id="u4920_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4921" class="text">
+          <p><span>12345698715</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,227 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>邀请H5首页</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/邀请h5首页/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/邀请h5首页/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u315" class="ax_default box_1">
+        <div id="u315_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u316" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u317" class="ax_default _文本">
+        <div id="u317_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u318" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u319" class="ax_default primary_button">
+        <div id="u319_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u320" class="text">
+          <p><span></span></p><p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u321" class="ax_default _文本">
+        <div id="u321_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u322" class="text">
+          <p><span>Click here to know </span><span style="color:#FF0000;">more</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u323" class="ax_default _图像">
+        <img id="u323_img" class="img " src="images/邀请h5首页/u323.png"/>
+        <!-- Unnamed () -->
+        <div id="u324" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u325" class="ax_default _文本">
+        <div id="u325_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u326" class="text">
+          <p><span>Osell，Connect Business Indoors</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u327" class="ax_default _文本">
+        <div id="u327_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u328" class="text">
+          <p><span>New to OSell?</span></p><p><span>Join us today and we’ll give you up to 1000$ in coupons</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u329" class="ax_default _图像">
+        <img id="u329_img" class="img " src="images/邀请h5首页/u329.png"/>
+        <!-- Unnamed () -->
+        <div id="u330" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u331" class="ax_default shape">
+        <img id="u331_img" class="img " src="images/邀请h5首页/u331.png"/>
+        <!-- Unnamed () -->
+        <div id="u332" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u333" class="ax_default line">
+        <img id="u333_img" class="img " src="images/邀请h5首页/u333.png"/>
+        <!-- Unnamed () -->
+        <div id="u334" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u335" class="ax_default _文本">
+        <div id="u335_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u336" class="text">
+          <p style="font-size:11px;"><span style="font-size:16px;">$5 </span><span>CASH COUPON</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u337" class="ax_default _文本">
+        <div id="u337_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u338" class="text">
+          <p><span>-------GET YOUR COUPON NOW</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u339" class="ax_default _图像">
+        <img id="u339_img" class="img " src="images/邀请h5首页/u339.png"/>
+        <!-- Unnamed () -->
+        <div id="u340" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u341" class="ax_default _标题2">
+        <div id="u341_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u342" class="text">
+          <p><span>In coupons</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u343" class="ax_default primary_button">
+        <div id="u343_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u344" class="text">
+          <p><span></span></p><p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u345" class="ax_default shape">
+        <img id="u345_img" class="img " src="images/邀请h5首页/u331.png"/>
+        <!-- Unnamed () -->
+        <div id="u346" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (垂直线) -->
+      <div id="u347" class="ax_default line">
+        <img id="u347_img" class="img " src="images/邀请h5首页/u333.png"/>
+        <!-- Unnamed () -->
+        <div id="u348" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u349" class="ax_default _文本">
+        <div id="u349_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u350" class="text">
+          <p><span>$1000</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u351" class="ax_default _文本">
+        <div id="u351_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u352" class="text">
+          <p><span>-------GET YOUR COUPON NOW</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u353" class="ax_default _图像">
+        <img id="u353_img" class="img " src="images/邀请h5首页/u339.png"/>
+        <!-- Unnamed () -->
+        <div id="u354" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u355" class="ax_default _标题2">
+        <div id="u355_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u356" class="text">
+          <p><span>In coupons</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u357" class="ax_default _文本">
+        <div id="u357_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u358" class="text">
+          <p><span style="font-family:'Arial Negreta', 'Arial Normal', 'Arial';font-weight:700;">DISCOUNTS</span></p><p><span style="font-family:'Arial Negreta', 'Arial Normal', 'Arial';font-weight:700;"><br></span></p><p><span style="font-family:'Arial Normal', 'Arial';font-weight:400;"><br></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
