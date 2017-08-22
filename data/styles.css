@@ -65,11 +65,11 @@
   text-align:left;
 }
 ._连接符 {
-  font-family:'微软雅黑';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
-  color:#419CEE;
+  color:#333333;
   text-align:center;
   line-height:normal;
 }
@@ -130,7 +130,7 @@
   font-weight:400;
   font-style:normal;
   font-size:13px;
-  color:#999999;
+  color:#333333;
   text-align:center;
   line-height:normal;
 }

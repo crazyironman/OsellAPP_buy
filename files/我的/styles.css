@@ -1582,7 +1582,7 @@
 #u802 {
   border-width:0px;
   position:absolute;
-  left:58px;
+  left:63px;
   top:464px;
   width:76px;
   height:15px;
@@ -1825,4 +1825,24 @@
   width:18px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u821 {
+  border-width:0px;
+  position:absolute;
+  left:6px;
+  top:377px;
+  width:354px;
+  height:36px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u822 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:451px;
+  width:354px;
+  height:36px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }
