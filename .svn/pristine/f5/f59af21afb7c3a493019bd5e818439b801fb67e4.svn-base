@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>砍价成功页面</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/砍价成功页面/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/砍价成功页面/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6231" class="ax_default box_1">
+        <div id="u6231_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6232" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6233" class="ax_default box_1">
+        <div id="u6233_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6234" class="text">
+          <p><span>砍价成功</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u6235" class="ax_default _图像">
+        <img id="u6235_img" class="img " src="images/卖场页面/u399.png"/>
+        <!-- Unnamed () -->
+        <div id="u6236" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6237" class="ax_default _文本">
+        <div id="u6237_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6238" class="text">
+          <p><span>XXXXX你已成功帮助好友砍价，你也有机会抽取大奖，赶快登录OSELLAPP参加吧!</span></p>
+        </div>
+      </div>
+
+      <!-- android (形状) -->
+      <div id="u6239" class="ax_default shape" data-label="android">
+        <img id="u6239_img" class="img " src="images/砍价成功页面/android_u6239.png"/>
+        <!-- Unnamed () -->
+        <div id="u6240" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u6241" class="ax_default _图像">
+        <img id="u6241_img" class="img " src="images/砍价成功页面/u6241.png"/>
+        <!-- Unnamed () -->
+        <div id="u6242" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6243" class="ax_default _文本">
+        <div id="u6243_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6244" class="text">
+          <p><span>XXXXX你已注册成功，获得50积分，</span></p><p><span>并成功帮助好友砍价，</span><span style="color:#0000FF;">Ta为感恩赠送你XXX积分，</span><span>你赢得了抽取大奖的机会，赶快去下载OSELLAPP参加吧!</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6245" class="ax_default _文本">
+        <div id="u6245_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6246" class="text">
+          <p><span>XXXXX你获得当日首次登录10积分，并成功帮助好友砍价，</span><span style="color:#0000FF;">Ta为感恩赠送你XXX积分，</span><span>你也有机会抽取大奖，赶快登录OSELLAPP参加吧!</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
