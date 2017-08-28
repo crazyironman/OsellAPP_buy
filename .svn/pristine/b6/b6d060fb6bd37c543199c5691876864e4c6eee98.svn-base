@@ -1,0 +1,328 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>拼团</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/拼团/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/拼团/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4433" class="ax_default box_1">
+        <div id="u4433_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4434" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4435" class="ax_default box_1">
+        <div id="u4435_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4436" class="text">
+          <p><span>选品中心</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4437" class="ax_default box_1">
+        <div id="u4437_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4438" class="text">
+          <p><span>返回</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4439" class="ax_default box_1">
+        <div id="u4439_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4440" class="text">
+          <p><span>搜索</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4441" class="ax_default box_1">
+        <div id="u4441_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4442" class="text">
+          <p><span>全部品类|||</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4443" class="ax_default box_1">
+        <div id="u4443_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4444" class="text">
+          <p><span>默认排序 |||</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4445" class="ax_default box_1">
+        <div id="u4445_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4446" class="text">
+          <p><span>库存 |||</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4447" class="ax_default box_1">
+        <div id="u4447_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4448" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u4449" class="ax_default" data-left="8" data-top="88" data-width="165" data-height="251">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u4450" class="ax_default box_1">
+          <div id="u4450_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u4451" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (占位符) -->
+        <div id="u4452" class="ax_default placeholder">
+          <img id="u4452_img" class="img " src="images/申领产品详情页/u1399.png"/>
+          <!-- Unnamed () -->
+          <div id="u4453" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u4454" class="ax_default box_1">
+          <div id="u4454_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u4455" class="text">
+            <p><span>产品名称产品名称产品名称产品名称产品名称产...</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u4456" class="ax_default box_1">
+          <div id="u4456_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u4457" class="text">
+            <p style="font-size:12px;"><span style="font-size:14px;color:#FF3300;">USD 88888.88</span><span style="color:#CCCCCC;">/Piece</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u4458" class="ax_default box_1">
+          <div id="u4458_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u4459" class="text">
+            <p><span>10人拼团</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u4460" class="ax_default placeholder">
+        <img id="u4460_img" class="img " src="images/申领产品详情页/u1399.png"/>
+        <!-- Unnamed () -->
+        <div id="u4461" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4462" class="ax_default box_1">
+        <div id="u4462_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4463" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产...</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4464" class="ax_default box_1">
+        <div id="u4464_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4465" class="text">
+          <p style="font-size:12px;"><span style="font-size:14px;color:#FF3300;">USD 88888.88</span><span style="color:#CCCCCC;">/Piece</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4466" class="ax_default box_1">
+        <div id="u4466_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4467" class="text">
+          <p><span>20人拼团</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4468" class="ax_default box_1">
+        <div id="u4468_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4469" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4470" class="ax_default box_1">
+        <div id="u4470_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4471" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u4472" class="ax_default placeholder">
+        <img id="u4472_img" class="img " src="images/申领产品详情页/u1399.png"/>
+        <!-- Unnamed () -->
+        <div id="u4473" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u4474" class="ax_default placeholder">
+        <img id="u4474_img" class="img " src="images/申领产品详情页/u1399.png"/>
+        <!-- Unnamed () -->
+        <div id="u4475" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4476" class="ax_default box_1">
+        <div id="u4476_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4477" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产...</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4478" class="ax_default box_1">
+        <div id="u4478_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4479" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产...</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4480" class="ax_default box_1">
+        <div id="u4480_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4481" class="text">
+          <p style="font-size:12px;"><span style="font-size:14px;color:#FF3300;">USD 88888.88</span><span style="color:#CCCCCC;">/Piece</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4482" class="ax_default box_1">
+        <div id="u4482_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4483" class="text">
+          <p style="font-size:12px;"><span style="font-size:14px;color:#FF3300;">USD 88888.88</span><span style="color:#CCCCCC;">/Piece</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4484" class="ax_default box_1">
+        <div id="u4484_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4485" class="text">
+          <p><span>30人拼团</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4486" class="ax_default box_1">
+        <div id="u4486_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4487" class="text">
+          <p><span>20人拼团</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u4488" class="ax_default _连接符">
+        <img id="u4488_seg0" class="img " src="images/拼团/u4488_seg0.png" alt="u4488_seg0"/>
+        <img id="u4488_seg1" class="img " src="images/拼团/u4488_seg1.png" alt="u4488_seg1"/>
+        <img id="u4488_seg2" class="img " src="images/拼团/u4488_seg2.png" alt="u4488_seg2"/>
+        <img id="u4488_seg3" class="img " src="images/申领产品详情页/u1437_seg2.png" alt="u4488_seg3"/>
+        <!-- Unnamed () -->
+        <div id="u4489" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4490" class="ax_default sticky_1">
+        <div id="u4490_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4491" class="text">
+          <p><span>默认排序同首页逻辑一致</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4492" class="ax_default box_1">
+        <div id="u4492_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4493" class="text">
+          <p><span>品牌馆</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u4494" class="ax_default _连接符">
+        <img id="u4494_seg0" class="img " src="images/拼团/u4494_seg0.png" alt="u4494_seg0"/>
+        <img id="u4494_seg1" class="img " src="images/拼团/u4494_seg1.png" alt="u4494_seg1"/>
+        <img id="u4494_seg2" class="img " src="images/拼团/u4494_seg2.png" alt="u4494_seg2"/>
+        <img id="u4494_seg3" class="img " src="images/申领产品详情页/u1372_seg3.png" alt="u4494_seg3"/>
+        <img id="u4494_seg4" class="img " src="images/拼团/u4494_seg4.png" alt="u4494_seg4"/>
+        <!-- Unnamed () -->
+        <div id="u4495" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4496" class="ax_default sticky_1">
+        <div id="u4496_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4497" class="text">
+          <p><span>增加品牌馆，需后台对产品做标识</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

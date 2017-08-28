@@ -1,0 +1,820 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>卖场页面</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/卖场页面/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/卖场页面/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u0" class="ax_default box_1">
+        <div id="u0_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2" class="ax_default box_1">
+        <div id="u2_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3" class="text">
+          <p><span>DragonCity Market</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u4" class="ax_default _图像">
+        <img id="u4_img" class="img " src="images/卖场页面/regen/u4.png"/>
+        <!-- Unnamed () -->
+        <div id="u5" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6" class="ax_default box_2">
+        <div id="u6_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u7" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u8" class="ax_default box_3">
+        <div id="u8_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u9" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u10" class="ax_default box_11">
+        <div id="u10_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u11" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u12" class="ax_default _图像">
+        <img id="u12_img" class="img " src="images/卖场页面/regen/u12.png"/>
+        <!-- Unnamed () -->
+        <div id="u13" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u14" class="ax_default _标题1">
+        <div id="u14_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u15" class="text">
+          <p><span>Please enter the store or product keyword</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u16" class="ax_default _文本">
+        <div id="u16_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u17" class="text">
+          <p><span>卖场首图</span></p>
+        </div>
+      </div>
+
+      <!-- location on (形状) -->
+      <div id="u18" class="ax_default shape" data-label="location on">
+        <img id="u18_img" class="img " src="images/卖场页面/regen/location_on_u18.png"/>
+        <!-- Unnamed () -->
+        <div id="u19" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u20" class="ax_default _文本">
+        <div id="u20_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u21" class="text">
+          <p><span>P.O.Box 23259, Sharjah</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u22" class="ax_default box_2">
+        <div id="u22_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u23" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u24" class="ax_default ellipse">
+        <img id="u24_img" class="img " src="images/卖场页面/regen/u24.png"/>
+        <!-- Unnamed () -->
+        <div id="u25" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u26" class="ax_default ellipse">
+        <img id="u26_img" class="img " src="images/卖场页面/regen/u24.png"/>
+        <!-- Unnamed () -->
+        <div id="u27" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u28" class="ax_default ellipse">
+        <img id="u28_img" class="img " src="images/卖场页面/regen/u24.png"/>
+        <!-- Unnamed () -->
+        <div id="u29" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u30" class="ax_default _图像">
+        <img id="u30_img" class="img " src="images/卖场页面/regen/u30.png"/>
+        <!-- Unnamed () -->
+        <div id="u31" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u32" class="ax_default _图像">
+        <img id="u32_img" class="img " src="images/卖场页面/regen/u32.png"/>
+        <!-- Unnamed () -->
+        <div id="u33" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u34" class="ax_default _文本">
+        <div id="u34_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u35" class="text">
+          <p><span>All Products</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u36" class="ax_default _文本">
+        <div id="u36_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u37" class="text">
+          <p><span>My Favorites</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u38" class="ax_default box_2">
+        <div id="u38_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u39" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u40" class="ax_default box_2">
+        <div id="u40_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u41" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u42" class="ax_default box_3">
+        <div id="u42_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u43" class="text">
+          <p><span>店铺图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u44" class="ax_default _图像">
+        <img id="u44_img" class="img " src="images/卖场页面/regen/u44.png"/>
+        <!-- Unnamed () -->
+        <div id="u45" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u46" class="ax_default _文本">
+        <div id="u46_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u47" class="text">
+          <p><span>SHUNDE CORSO</span></p><p><span>ELECTRONICSCO CO</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u48" class="ax_default _文本">
+        <div id="u48_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u49" class="text">
+          <p><span>Address：&nbsp;&nbsp; 1F&nbsp; No 231 </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u50" class="ax_default _文本">
+        <div id="u50_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u51" class="text">
+          <p><span>Product Quantity：89</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u52" class="ax_default box_11">
+        <div id="u52_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u53" class="text">
+          <p><span>Go to the shop</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u54" class="ax_default box_3">
+        <div id="u54_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u55" class="text">
+          <p><span>店铺图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u56" class="ax_default _文本">
+        <div id="u56_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u57" class="text">
+          <p><span>SHUNDE CORSO</span></p><p><span>ELECTRONICSCO CO</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u58" class="ax_default _文本">
+        <div id="u58_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u59" class="text">
+          <p><span>Address：&nbsp;&nbsp; 1F&nbsp; No 231 </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u60" class="ax_default _文本">
+        <div id="u60_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u61" class="text">
+          <p><span>Product Quantity：89</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u62" class="ax_default box_11">
+        <div id="u62_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u63" class="text">
+          <p><span>Go to the shop</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u64" class="ax_default _图像">
+        <img id="u64_img" class="img " src="images/卖场页面/regen/u44.png"/>
+        <!-- Unnamed () -->
+        <div id="u65" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u66" class="ax_default box_2">
+        <div id="u66_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u67" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u68" class="ax_default box_2">
+        <div id="u68_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u69" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u70" class="ax_default box_3">
+        <div id="u70_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u71" class="text">
+          <p><span>店铺图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u72" class="ax_default _图像">
+        <img id="u72_img" class="img " src="images/卖场页面/regen/u44.png"/>
+        <!-- Unnamed () -->
+        <div id="u73" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u74" class="ax_default _文本">
+        <div id="u74_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u75" class="text">
+          <p><span>SHUNDE CORSO</span></p><p><span>ELECTRONICSCO CO</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u76" class="ax_default _文本">
+        <div id="u76_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u77" class="text">
+          <p><span>Address：&nbsp;&nbsp; 1F&nbsp; No 231 </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u78" class="ax_default _文本">
+        <div id="u78_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u79" class="text">
+          <p><span>Product Quantity：89</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u80" class="ax_default box_11">
+        <div id="u80_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u81" class="text">
+          <p><span>Go to the shop</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u82" class="ax_default box_3">
+        <div id="u82_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u83" class="text">
+          <p><span>店铺图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u84" class="ax_default _文本">
+        <div id="u84_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u85" class="text">
+          <p><span>SHUNDE CORSO</span></p><p><span>ELECTRONICSCO CO</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u86" class="ax_default _文本">
+        <div id="u86_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u87" class="text">
+          <p><span>Address：&nbsp;&nbsp; 1F&nbsp; No 231 </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u88" class="ax_default _文本">
+        <div id="u88_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u89" class="text">
+          <p><span>Product Quantity：89</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u90" class="ax_default box_11">
+        <div id="u90_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u91" class="text">
+          <p><span>Go to the shop</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u92" class="ax_default _图像">
+        <img id="u92_img" class="img " src="images/卖场页面/regen/u44.png"/>
+        <!-- Unnamed () -->
+        <div id="u93" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u94" class="ax_default box_2">
+        <div id="u94_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u95" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u96" class="ax_default box_2">
+        <div id="u96_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u97" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u98" class="ax_default box_3">
+        <div id="u98_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u99" class="text">
+          <p><span>店铺图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u100" class="ax_default _文本">
+        <div id="u100_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u101" class="text">
+          <p><span>SHUNDE CORSO</span></p><p><span>ELECTRONICSCO CO</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u102" class="ax_default _文本">
+        <div id="u102_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u103" class="text">
+          <p><span>Address：&nbsp;&nbsp; 1F&nbsp; No 231 </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u104" class="ax_default _文本">
+        <div id="u104_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u105" class="text">
+          <p><span>Product Quantity：89</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u106" class="ax_default box_11">
+        <div id="u106_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u107" class="text">
+          <p><span>Go to the shop</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u108" class="ax_default box_3">
+        <div id="u108_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u109" class="text">
+          <p><span>店铺图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u110" class="ax_default _文本">
+        <div id="u110_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u111" class="text">
+          <p><span>SHUNDE CORSO</span></p><p><span>ELECTRONICSCO CO</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u112" class="ax_default _文本">
+        <div id="u112_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u113" class="text">
+          <p><span>Address：&nbsp;&nbsp; 1F&nbsp; No 231 </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u114" class="ax_default _文本">
+        <div id="u114_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u115" class="text">
+          <p><span>Product Quantity：89</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u116" class="ax_default box_11">
+        <div id="u116_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u117" class="text">
+          <p><span>Go to the shop</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u118" class="ax_default _图像">
+        <img id="u118_img" class="img " src="images/卖场页面/regen/u118.png"/>
+        <!-- Unnamed () -->
+        <div id="u119" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u120" class="ax_default _图像">
+        <img id="u120_img" class="img " src="images/卖场页面/regen/u118.png"/>
+        <!-- Unnamed () -->
+        <div id="u121" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u122" class="ax_default _图像">
+        <img id="u122_img" class="img " src="images/卖场页面/regen/u118.png"/>
+        <!-- Unnamed () -->
+        <div id="u123" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u124" class="ax_default _图像">
+        <img id="u124_img" class="img " src="images/卖场页面/regen/u118.png"/>
+        <!-- Unnamed () -->
+        <div id="u125" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u126" class="ax_default _图像">
+        <img id="u126_img" class="img " src="images/卖场页面/regen/u118.png"/>
+        <!-- Unnamed () -->
+        <div id="u127" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u128" class="ax_default _图像">
+        <img id="u128_img" class="img " src="images/卖场页面/regen/u118.png"/>
+        <!-- Unnamed () -->
+        <div id="u129" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u130" class="ax_default _图像">
+        <img id="u130_img" class="img " src="images/卖场页面/regen/u130.png"/>
+        <!-- Unnamed () -->
+        <div id="u131" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u132" class="ax_default _文本">
+        <div id="u132_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u133" class="text">
+          <p><span>More</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u134" class="ax_default _图像">
+        <img id="u134_img" class="img " src="images/卖场页面/regen/u134.png"/>
+        <!-- Unnamed () -->
+        <div id="u135" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u136" class="ax_default sticky_2">
+        <div id="u136_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u137" class="text">
+          <p><span>点击跳转产品列表页，搜索改卖场下所有的产品进行展示</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u138" class="ax_default sticky_2">
+        <div id="u138_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u139" class="text">
+          <p><span>点击跳转到的我的收藏中的店铺列表页</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u140" class="ax_default sticky_2">
+        <div id="u140_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u141" class="text">
+          <p><span>点击跳转到产品类别页面</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u142" class="ax_default sticky_2">
+        <div id="u142_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u143" class="text">
+          <p><span>点击跳转店铺详情页面</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u144" class="ax_default sticky_2">
+        <div id="u144_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u145" class="text">
+          <p><span>点击跳转搜索页</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u146" class="ax_default _连接符">
+        <img id="u146_seg0" class="img " src="images/卖场页面/regen/u146_seg0.png" alt="u146_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u147" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u148" class="ax_default _连接符">
+        <img id="u148_seg0" class="img " src="images/卖场页面/regen/u148_seg0.png" alt="u148_seg0"/>
+        <img id="u148_seg1" class="img " src="images/卖场页面/regen/u148_seg1.png" alt="u148_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u149" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u150" class="ax_default sticky_2">
+        <div id="u150_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u151" class="text">
+          <p><span>跳转大卖场资料页面（原有）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u152" class="ax_default _连接符">
+        <img id="u152_seg0" class="img " src="images/卖场页面/regen/u152_seg0.png" alt="u152_seg0"/>
+        <img id="u152_seg1" class="img " src="images/卖场页面/regen/u152_seg1.png" alt="u152_seg1"/>
+        <img id="u152_seg2" class="img " src="images/卖场页面/regen/u152_seg2.png" alt="u152_seg2"/>
+        <!-- Unnamed () -->
+        <div id="u153" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u154" class="ax_default _连接符">
+        <img id="u154_seg0" class="img " src="images/卖场页面/regen/u154_seg0.png" alt="u154_seg0"/>
+        <img id="u154_seg1" class="img " src="images/卖场页面/regen/u154_seg1.png" alt="u154_seg1"/>
+        <img id="u154_seg2" class="img " src="images/卖场页面/regen/u154_seg2.png" alt="u154_seg2"/>
+        <img id="u154_seg3" class="img " src="images/卖场页面/regen/u154_seg3.png" alt="u154_seg3"/>
+        <!-- Unnamed () -->
+        <div id="u155" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u156" class="ax_default _连接符">
+        <img id="u156_seg0" class="img " src="images/卖场页面/regen/u156_seg0.png" alt="u156_seg0"/>
+        <img id="u156_seg1" class="img " src="images/卖场页面/regen/u156_seg1.png" alt="u156_seg1"/>
+        <img id="u156_seg2" class="img " src="images/卖场页面/regen/u156_seg2.png" alt="u156_seg2"/>
+        <!-- Unnamed () -->
+        <div id="u157" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u158" class="ax_default sticky_2">
+        <div id="u158_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u159" class="text">
+          <p><span>排序规则：优先后台指定，后根据关注量排序</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u160" class="ax_default _连接符">
+        <img id="u160_seg0" class="img " src="images/卖场页面/regen/u160_seg0.png" alt="u160_seg0"/>
+        <img id="u160_seg1" class="img " src="images/卖场页面/regen/u160_seg1.png" alt="u160_seg1"/>
+        <!-- Unnamed () -->
+        <div id="u161" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u162" class="ax_default ellipse">
+        <img id="u162_img" class="img " src="images/卖场页面/regen/u162.png"/>
+        <!-- Unnamed () -->
+        <div id="u163" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u164" class="ax_default ellipse">
+        <img id="u164_img" class="img " src="images/卖场页面/regen/u164.png"/>
+        <!-- Unnamed () -->
+        <div id="u165" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u166" class="ax_default ellipse">
+        <img id="u166_img" class="img " src="images/卖场页面/regen/u164.png"/>
+        <!-- Unnamed () -->
+        <div id="u167" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u168" class="ax_default ellipse">
+        <img id="u168_img" class="img " src="images/卖场页面/regen/u164.png"/>
+        <!-- Unnamed () -->
+        <div id="u169" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u170" class="ax_default ellipse">
+        <img id="u170_img" class="img " src="images/卖场页面/regen/u164.png"/>
+        <!-- Unnamed () -->
+        <div id="u171" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像热区) -->
+      <div id="u172" class="ax_default">
+      </div>
+
+      <!-- Unnamed (图像热区) -->
+      <div id="u173" class="ax_default">
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>抽奖活动截图（设计）</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/抽奖活动截图（设计）/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/抽奖活动截图（设计）/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (图像) -->
+      <div id="u2015" class="ax_default _图像">
+        <img id="u2015_img" class="img " src="images/抽奖活动截图（设计）/u2015.png"/>
+        <!-- Unnamed () -->
+        <div id="u2016" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u2017" class="ax_default _图像">
+        <img id="u2017_img" class="img " src="images/抽奖活动截图（设计）/u2017.png"/>
+        <!-- Unnamed () -->
+        <div id="u2018" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u2019" class="ax_default _图像">
+        <img id="u2019_img" class="img " src="images/抽奖活动截图（设计）/u2019.png"/>
+        <!-- Unnamed () -->
+        <div id="u2020" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2021" class="ax_default _文本">
+        <div id="u2021_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u2022" class="text">
+          <p><span>2）&nbsp; &nbsp;&nbsp; 积分转盘抽奖</span></p><p><span>基本规则为：消耗3积分换取一次抽奖机会，游戏设置上限20次或不设置，可获奖品包括5美金话费卡、5积分和2积分，前10次每次必中奖，10次之后中奖几率降低。抽中积分即时到账；抽中红包需要设计拆红包的环节，金额即时发送到客户钱包；抽中话费卡提示48小时到账。</span></p><p><span>当积分不足时提醒“积分足，请去赚积分！”</span></p><p><span>获得积分提示“你获得XX积分，good luck”</span></p><p><span>未获奖：不要气馁，再接再厉！</span></p><p><span><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u2023" class="ax_default _图像">
+        <img id="u2023_img" class="img " src="images/抽奖活动截图（设计）/u2023.png"/>
+        <!-- Unnamed () -->
+        <div id="u2024" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u2025" class="ax_default _图像">
+        <img id="u2025_img" class="img " src="images/卖场页面/u401.png"/>
+        <!-- Unnamed () -->
+        <div id="u2026" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

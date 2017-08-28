@@ -1,0 +1,128 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>登录页面</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/登录页面/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/登录页面/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6195" class="ax_default box_1">
+        <div id="u6195_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6196" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6197" class="ax_default box_1">
+        <div id="u6197_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6198" class="text">
+          <p><span>Osell登录页面</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u6199" class="ax_default _图像">
+        <img id="u6199_img" class="img " src="images/卖场页面/u401.png"/>
+        <!-- Unnamed () -->
+        <div id="u6200" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6201" class="ax_default _标题1">
+        <div id="u6201_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6202" class="text">
+          <p><span>OSELL</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6203" class="ax_default box_11">
+        <div id="u6203_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6204" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6205" class="ax_default _标题1">
+        <div id="u6205_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6206" class="text">
+          <p><span>Enter your email</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6207" class="ax_default box_11">
+        <div id="u6207_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6208" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6209" class="ax_default _标题1">
+        <div id="u6209_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6210" class="text">
+          <p><span>Enter your password</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u6211" class="ax_default shape">
+        <img id="u6211_img" class="img " src="images/注册页面/u6187.png"/>
+        <!-- Unnamed () -->
+        <div id="u6212" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6213" class="ax_default primary_button">
+        <div id="u6213_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6214" class="text">
+          <p><span>Login</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6215" class="ax_default label">
+        <div id="u6215_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6216" class="text">
+          <p><span style="text-decoration:underline;">Register</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

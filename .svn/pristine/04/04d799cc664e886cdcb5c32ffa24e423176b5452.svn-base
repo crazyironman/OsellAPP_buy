@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>注册成功页面（原有修改）</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/注册成功页面（原有修改）/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/注册成功页面（原有修改）/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (图像) -->
+      <div id="u375" class="ax_default _图像">
+        <img id="u375_img" class="img " src="images/注册成功页面（原有修改）/u375.png"/>
+        <!-- Unnamed () -->
+        <div id="u376" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u377" class="ax_default _文本">
+        <div id="u377_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u378" class="text">
+          <p><span>GET OSell APP TODAY ,&nbsp; REFER &amp; EARN!</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u379" class="ax_default _连接符">
+        <img id="u379_seg0" class="img " src="images/注册成功页面（原有修改）/u379_seg0.png" alt="u379_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u380" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u381" class="ax_default _连接符">
+        <img id="u381_seg0" class="img " src="images/注册成功页面（原有修改）/u381_seg0.png" alt="u381_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u382" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u383" class="ax_default _文本">
+        <div id="u383_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u384" class="text">
+          <p><span>邀请人昵称</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u385" class="ax_default _连接符">
+        <img id="u385_seg0" class="img " src="images/注册成功页面（原有修改）/u385_seg0.png" alt="u385_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u386" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u387" class="ax_default _文本">
+        <div id="u387_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u388" class="text">
+          <p><span>Hi，Finally meet you,Welcome to OSell!</span></p><p><span>5$ cash in coupon sent from MOMO have arrived to your OSell account</span></p><p><span>Plz download the APP to check</span></p><p><span>Don't forget to thank MOMO!</span></p><p><span style="color:#FF0000;"><br></span></p><p><span><br></span></p><p><span>Hi，Finally meet you,Welcome to OSell!</span></p><p><span>1000$ discounts in coupon sent from MOMO have arrived to your OSell account</span></p><p><span>Plz download the APP to check</span></p><p><span>Don’t forget to thank MOMO!</span></p><p><span><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u389" class="ax_default _文本">
+        <div id="u389_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u390" class="text">
+          <p><span>不同的奖励使用不同的2段内容：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u391" class="ax_default _文本">
+        <div id="u391_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u392" class="text">
+          <p><span>对应发放规则请参见svn上的邀请返利活动文档</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u393" class="ax_default _文本">
+        <div id="u393_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u394" class="text">
+          <p><span>对应发放规则请参见svn上的邀请返利活动文档</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

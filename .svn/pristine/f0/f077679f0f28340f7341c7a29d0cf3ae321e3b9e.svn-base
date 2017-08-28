@@ -1,0 +1,191 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>货币选择</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/货币选择/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/货币选择/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4498" class="ax_default box_1">
+        <div id="u4498_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4499" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4500" class="ax_default box_11">
+        <div id="u4500_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4501" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4502" class="ax_default box_1">
+        <div id="u4502_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4503" class="text">
+          <p><span>货币选择</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u4504" class="ax_default _图像">
+        <img id="u4504_img" class="img " src="images/卖场页面/u401.png"/>
+        <!-- Unnamed () -->
+        <div id="u4505" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u4506" class="ax_default line">
+        <img id="u4506_img" class="img " src="images/货币选择/u4506.png"/>
+        <!-- Unnamed () -->
+        <div id="u4507" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4508" class="ax_default _标题1">
+        <div id="u4508_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4509" class="text">
+          <p><span>美元</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u4510" class="ax_default line">
+        <img id="u4510_img" class="img " src="images/货币选择/u4506.png"/>
+        <!-- Unnamed () -->
+        <div id="u4511" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4512" class="ax_default _标题1">
+        <div id="u4512_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4513" class="text">
+          <p><span>卢布</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u4514" class="ax_default _图像">
+        <img id="u4514_img" class="img " src="images/货币选择/u4514.png"/>
+        <!-- Unnamed () -->
+        <div id="u4515" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u4516" class="ax_default _图像">
+        <img id="u4516_img" class="img " src="images/货币选择/u4516.png"/>
+        <!-- Unnamed () -->
+        <div id="u4517" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u4518" class="ax_default line">
+        <img id="u4518_img" class="img " src="images/货币选择/u4506.png"/>
+        <!-- Unnamed () -->
+        <div id="u4519" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u4520" class="ax_default _图像">
+        <img id="u4520_img" class="img " src="images/货币选择/u4520.png"/>
+        <!-- Unnamed () -->
+        <div id="u4521" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u4522" class="ax_default _图像">
+        <img id="u4522_img" class="img " src="images/货币选择/u4522.png"/>
+        <!-- Unnamed () -->
+        <div id="u4523" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u4524" class="ax_default line">
+        <img id="u4524_img" class="img " src="images/货币选择/u4506.png"/>
+        <!-- Unnamed () -->
+        <div id="u4525" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4526" class="ax_default _标题1">
+        <div id="u4526_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4527" class="text">
+          <p><span>加元</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4528" class="ax_default _标题1">
+        <div id="u4528_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4529" class="text">
+          <p><span>越南盾</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u4530" class="ax_default _图像">
+        <img id="u4530_img" class="img " src="images/货币选择/u4530.png"/>
+        <!-- Unnamed () -->
+        <div id="u4531" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4532" class="ax_default _标题1">
+        <div id="u4532_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u4533" class="text">
+          <p><span>波兰兹罗提</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

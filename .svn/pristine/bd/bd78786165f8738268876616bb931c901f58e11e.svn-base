@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>注册页面</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/注册页面/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/注册页面/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6171" class="ax_default box_1">
+        <div id="u6171_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6172" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6173" class="ax_default box_1">
+        <div id="u6173_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6174" class="text">
+          <p><span>Osell注册页面</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u6175" class="ax_default _图像">
+        <img id="u6175_img" class="img " src="images/卖场页面/u401.png"/>
+        <!-- Unnamed () -->
+        <div id="u6176" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6177" class="ax_default _标题1">
+        <div id="u6177_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6178" class="text">
+          <p><span>OSELL</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6179" class="ax_default box_11">
+        <div id="u6179_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6180" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6181" class="ax_default _标题1">
+        <div id="u6181_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6182" class="text">
+          <p><span>Enter your email</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6183" class="ax_default box_11">
+        <div id="u6183_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6184" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6185" class="ax_default _标题1">
+        <div id="u6185_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6186" class="text">
+          <p><span>Create your password</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u6187" class="ax_default shape">
+        <img id="u6187_img" class="img " src="images/注册页面/u6187.png"/>
+        <!-- Unnamed () -->
+        <div id="u6188" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6189" class="ax_default primary_button">
+        <div id="u6189_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6190" class="text">
+          <p><span>Register</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6191" class="ax_default _文本">
+        <div id="u6191_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6192" class="text">
+          <p><span>Creating an account indicates you agree to the</span><span style="text-decoration:underline;color:#0000FF;">《OSELL software License and Services Agreement》</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u6193" class="ax_default label">
+        <div id="u6193_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u6194" class="text">
+          <p><span style="text-decoration:underline;">Login</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
