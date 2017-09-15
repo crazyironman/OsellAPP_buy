@@ -1,0 +1,371 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>兑换记录</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/兑换记录/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/兑换记录/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u916" class="ax_default box_1">
+        <div id="u916_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u917" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u918" class="ax_default box_11">
+        <img id="u918_img" class="img " src="images/兑换记录/u918.png"/>
+        <!-- Unnamed () -->
+        <div id="u919" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u920" class="ax_default box_1">
+        <div id="u920_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u921" class="text">
+          <p><span>Redeem History</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u922" class="ax_default _图像">
+        <img id="u922_img" class="img " src="images/卖场页面/u401.png"/>
+        <!-- Unnamed () -->
+        <div id="u923" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u924" class="ax_default box_2">
+        <div id="u924_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u925" class="text">
+          <p><span>兑换礼品图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u926" class="ax_default _标题1">
+        <div id="u926_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u927" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称</span></p><p><span><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u928" class="ax_default _标题1">
+        <div id="u928_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u929" class="text">
+          <p><span>500 Points</span></p><p><span>Redeemed at：2017-09-01 10：08</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u930" class="ax_default _标题1">
+        <div id="u930_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u931" class="text">
+          <p style="font-size:12px;"><span>Shipping condition：&nbsp; &nbsp; </span><span style="font-size:13px;">Received</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u932" class="ax_default box_2">
+        <div id="u932_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u933" class="text">
+          <p><span>兑换礼品图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u934" class="ax_default _标题1">
+        <div id="u934_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u935" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称</span></p><p><span><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u936" class="ax_default _标题1">
+        <div id="u936_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u937" class="text">
+          <p><span>500 Points</span></p><p><span>Redeemed at：2017-09-01 10：08</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u938" class="ax_default _标题1">
+        <div id="u938_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u939" class="text">
+          <p><span>Shipping condition：&nbsp; &nbsp; 待收货</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u940" class="ax_default line">
+        <img id="u940_img" class="img " src="images/兑换记录/u940.png"/>
+        <!-- Unnamed () -->
+        <div id="u941" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u942" class="ax_default line">
+        <img id="u942_img" class="img " src="images/兑换记录/u940.png"/>
+        <!-- Unnamed () -->
+        <div id="u943" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u944" class="ax_default box_2">
+        <div id="u944_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u945" class="text">
+          <p><span>兑换礼品图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u946" class="ax_default _标题1">
+        <div id="u946_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u947" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称</span></p><p><span><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u948" class="ax_default _标题1">
+        <div id="u948_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u949" class="text">
+          <p><span>500 Points</span></p><p><span>Redeemed at:2017-09-01 10：08</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u950" class="ax_default _标题1">
+        <div id="u950_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u951" class="text">
+          <p><span>Shipping condition：&nbsp; &nbsp; 待发货</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u952" class="ax_default line">
+        <img id="u952_img" class="img " src="images/兑换记录/u940.png"/>
+        <!-- Unnamed () -->
+        <div id="u953" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u954" class="ax_default box_2">
+        <div id="u954_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u955" class="text">
+          <p><span>兑换礼品图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u956" class="ax_default _标题1">
+        <div id="u956_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u957" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称</span></p><p><span><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u958" class="ax_default _标题1">
+        <div id="u958_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u959" class="text">
+          <p><span>500 Points</span></p><p><span>兑换于2017-09-01 10：08</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u960" class="ax_default _标题1">
+        <div id="u960_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u961" class="text">
+          <p><span>Shipping condition：&nbsp; &nbsp; 待发货</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u962" class="ax_default line">
+        <img id="u962_img" class="img " src="images/兑换记录/u940.png"/>
+        <!-- Unnamed () -->
+        <div id="u963" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u964" class="ax_default box_11">
+        <div id="u964_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u965" class="text">
+          <p><span>All</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u966" class="ax_default box_11">
+        <div id="u966_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u967" class="text">
+          <p><span>Ready to ship</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u968" class="ax_default box_11">
+        <div id="u968_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u969" class="text">
+          <p><span>Ready to receive</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u970" class="ax_default box_11">
+        <div id="u970_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u971" class="text">
+          <p><span>Received</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u972" class="ax_default sticky_2">
+        <div id="u972_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u973" class="text">
+          <p><span>排序规则：时间倒序</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u974" class="ax_default sticky_2">
+        <div id="u974_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u975" class="text">
+          <p><span>点击跳转兑换礼品详情，过期报失效“抱歉该产品已失效！”</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u976" class="ax_default sticky_2">
+        <div id="u976_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u977" class="text">
+          <p><span>当用户无任何兑换记录时</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u978" class="ax_default box_1">
+        <div id="u978_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u979" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u980" class="ax_default box_11">
+        <img id="u980_img" class="img " src="images/兑换记录/u918.png"/>
+        <!-- Unnamed () -->
+        <div id="u981" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u982" class="ax_default box_1">
+        <div id="u982_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u983" class="text">
+          <p><span>Redeem History</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u984" class="ax_default _图像">
+        <img id="u984_img" class="img " src="images/卖场页面/u401.png"/>
+        <!-- Unnamed () -->
+        <div id="u985" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u986" class="ax_default _标题2">
+        <div id="u986_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u987" class="text">
+          <p><span>你还没有兑换记录</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u988" class="ax_default primary_button">
+        <div id="u988_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u989" class="text">
+          <p><span>马上去积分商城看看</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (连接符) -->
+      <div id="u990" class="ax_default _连接符">
+        <img id="u990_seg0" class="img " src="images/兑换记录/u990_seg0.png" alt="u990_seg0"/>
+        <!-- Unnamed () -->
+        <div id="u991" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

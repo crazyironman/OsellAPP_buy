@@ -1,0 +1,515 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>我的试销</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/我的试销/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/我的试销/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1099" class="ax_default box_1">
+        <div id="u1099_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1100" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1101" class="ax_default box_1">
+        <div id="u1101_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1102" class="text">
+          <p><span>申请试销资格</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u1103" class="ax_default _图像">
+        <img id="u1103_img" class="img " src="images/卖场页面/u401.png"/>
+        <!-- Unnamed () -->
+        <div id="u1104" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1105" class="ax_default _文本">
+        <div id="u1105_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1106" class="text">
+          <p><span>We have received your application and it takes 3 business days to verify,pls wait patiently.</span></p><p><span>If you have any inquiry,pls contact our customer service.</span></p><p><span><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u1107" class="ax_default _图像">
+        <img id="u1107_img" class="img " src="images/我的试销/u1107.png"/>
+        <!-- Unnamed () -->
+        <div id="u1108" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1109" class="ax_default primary_button">
+        <div id="u1109_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1110" class="text">
+          <p><span>Check</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1111" class="ax_default box_1">
+        <div id="u1111_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1112" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1113" class="ax_default box_1">
+        <div id="u1113_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1114" class="text">
+          <p><span>申请试销资格</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u1115" class="ax_default _图像">
+        <img id="u1115_img" class="img " src="images/卖场页面/u401.png"/>
+        <!-- Unnamed () -->
+        <div id="u1116" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1117" class="ax_default _文本">
+        <div id="u1117_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1118" class="text">
+          <p><span>Your application has been rejected,please re-apply.</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1119" class="ax_default primary_button">
+        <div id="u1119_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1120" class="text">
+          <p><span>Re-apply</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1121" class="ax_default box_1">
+        <div id="u1121_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1122" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1123" class="ax_default box_1">
+        <div id="u1123_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1124" class="text">
+          <p><span>我的试销</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u1125" class="ax_default _图像">
+        <img id="u1125_img" class="img " src="images/卖场页面/u401.png"/>
+        <!-- Unnamed () -->
+        <div id="u1126" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1127" class="ax_default box_11">
+        <div id="u1127_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1128" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1129" class="ax_default box_2">
+        <div id="u1129_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1130" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1131" class="ax_default _文本">
+        <div id="u1131_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1132" class="text">
+          <p><span>店铺名称:XXXXXXXXXXXXX</span></p><p><span>XXXXXXXXXXXXXXXXXXXXX</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1133" class="ax_default _文本">
+        <div id="u1133_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1134" class="text">
+          <p><span>国家：俄罗斯</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1135" class="ax_default _文本">
+        <div id="u1135_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1136" class="text">
+          <p><span>时间：2017-08-23</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1137" class="ax_default box_11">
+        <div id="u1137_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1138" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1139" class="ax_default _文本">
+        <div id="u1139_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1140" class="text">
+          <p><span>You’ve never applyed for the trial sale,why not have a try!</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1141" class="ax_default primary_button">
+        <div id="u1141_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1142" class="text">
+          <p><span>Go to see</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1143" class="ax_default box_1">
+        <div id="u1143_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1144" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1145" class="ax_default box_1">
+        <div id="u1145_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1146" class="text">
+          <p><span>My Trial Sale</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u1147" class="ax_default _图像">
+        <img id="u1147_img" class="img " src="images/卖场页面/u401.png"/>
+        <!-- Unnamed () -->
+        <div id="u1148" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1149" class="ax_default box_11">
+        <div id="u1149_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1150" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1151" class="ax_default box_2">
+        <div id="u1151_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1152" class="text">
+          <p><span>店铺图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1153" class="ax_default _文本">
+        <div id="u1153_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1154" class="text">
+          <p><span>店铺名称:XXXXXXXXXXXXX</span></p><p><span>XXXXXXXXXXXXXXXXXXXXX</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1155" class="ax_default _文本">
+        <div id="u1155_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1156" class="text">
+          <p><span>国家：俄罗斯</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1157" class="ax_default _文本">
+        <div id="u1157_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1158" class="text">
+          <p><span>时间：2017-08-23</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1159" class="ax_default box_11">
+        <div id="u1159_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1160" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1161" class="ax_default box_2">
+        <div id="u1161_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1162" class="text">
+          <p><span>产品图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1163" class="ax_default _标题1">
+        <div id="u1163_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1164" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称</span></p><p><span><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1165" class="ax_default _标题1">
+        <div id="u1165_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1166" class="text">
+          <p><span>申请时间 2017-09-01 10：08</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1167" class="ax_default _标题1">
+        <div id="u1167_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1168" class="text">
+          <p><span>状态：&nbsp; &nbsp; 待审批</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1169" class="ax_default box_2">
+        <div id="u1169_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1170" class="text">
+          <p><span>产品图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1171" class="ax_default _标题1">
+        <div id="u1171_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1172" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称</span></p><p><span><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1173" class="ax_default box_2">
+        <div id="u1173_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1174" class="text">
+          <p><span>产品图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1175" class="ax_default _标题1">
+        <div id="u1175_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1176" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称</span></p><p><span><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1177" class="ax_default box_2">
+        <div id="u1177_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1178" class="text">
+          <p><span>产品图</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1179" class="ax_default _标题1">
+        <div id="u1179_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1180" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称产品名称</span></p><p><span><br></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1181" class="ax_default _标题1">
+        <div id="u1181_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1182" class="text">
+          <p><span>申请时间 2017-09-01 10：08</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1183" class="ax_default _标题1">
+        <div id="u1183_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1184" class="text">
+          <p><span>状态：&nbsp; &nbsp; 待发货</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1185" class="ax_default _标题1">
+        <div id="u1185_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1186" class="text">
+          <p><span>申请时间 2017-09-01 10：08</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1187" class="ax_default _标题1">
+        <div id="u1187_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1188" class="text">
+          <p><span>状态：&nbsp; &nbsp; 已发货</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1189" class="ax_default _标题1">
+        <div id="u1189_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1190" class="text">
+          <p><span>申请时间 2017-09-01 10：08</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1191" class="ax_default _标题1">
+        <div id="u1191_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1192" class="text">
+          <p><span>状态：&nbsp; &nbsp; 已收货</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1193" class="ax_default _文本">
+        <div id="u1193_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1194" class="text">
+          <p><span>Application History</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1195" class="ax_default _文本">
+        <div id="u1195_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1196" class="text">
+          <p><span>2017-02-12&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Rejected&nbsp; &nbsp;&nbsp; Reason：Incorrect information</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1197" class="ax_default box_1">
+        <div id="u1197_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1198" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1199" class="ax_default box_1">
+        <div id="u1199_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1200" class="text">
+          <p><span>Group Buying</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u1201" class="ax_default _图像">
+        <img id="u1201_img" class="img " src="images/卖场页面/u401.png"/>
+        <!-- Unnamed () -->
+        <div id="u1202" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1203" class="ax_default _文本">
+        <div id="u1203_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1204" class="text">
+          <p><span style="text-decoration:underline;">For trial sale you need to register as a OSELL distribuitor at first.</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1205" class="ax_default primary_button">
+        <div id="u1205_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u1206" class="text">
+          <p><span>Register now</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

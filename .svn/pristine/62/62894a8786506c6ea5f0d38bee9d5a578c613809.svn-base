@@ -1,0 +1,938 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>我的砍价</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="data/apple-touch-icon.png" rel="apple-touch-icon"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/我的砍价/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/我的砍价/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3419" class="ax_default box_1">
+        <div id="u3419_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3420" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3421" class="ax_default box_1">
+        <div id="u3421_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3422" class="text">
+          <p><span>Bargain price</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) [footnote] -->
+      <div id="u3421_ann" class="annotation"></div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u3423" class="ax_default _图像">
+        <img id="u3423_img" class="img " src="images/卖场页面/u401.png"/>
+        <!-- Unnamed () -->
+        <div id="u3424" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3425" class="ax_default box_11">
+        <div id="u3425_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3426" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3427" class="ax_default box_11">
+        <div id="u3427_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3428" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3429" class="ax_default _标题1">
+        <div id="u3429_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3430" class="text">
+          <p><span>Available price</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u3431" class="ax_default placeholder">
+        <img id="u3431_img" class="img " src="images/申领产品详情页/u1432.png"/>
+        <!-- Unnamed () -->
+        <div id="u3432" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3433" class="ax_default box_1">
+        <div id="u3433_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3434" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产...</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3435" class="ax_default box_1">
+        <div id="u3435_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3436" class="text">
+          <p><span style="color:#FF3300;">原价USD 88888.88</span><span style="color:#CCCCCC;">/Piece</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3437" class="ax_default _文本">
+        <div id="u3437_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3438" class="text">
+          <p><span>Time：2017.01.09~2017.06.30</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u3439" class="ax_default _图像">
+        <img id="u3439_img" class="img " src="images/我的砍价/u3439.png"/>
+        <!-- Unnamed () -->
+        <div id="u3440" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3441" class="ax_default box_1">
+        <div id="u3441_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3442" class="text">
+          <p><span>40人</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3443" class="ax_default box_1">
+        <div id="u3443_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3444" class="text">
+          <p><span style="color:#FF3300;">USD 2222.88</span><span style="color:#CCCCCC;">/Piece</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3445" class="ax_default box_1">
+        <div id="u3445_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3446" class="text">
+          <p><span>60人</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3447" class="ax_default box_1">
+        <div id="u3447_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3448" class="text">
+          <p><span style="color:#FF3300;">USD 1000.88</span><span style="color:#CCCCCC;">/Piece</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u3449" class="ax_default line">
+        <img id="u3449_img" class="img " src="images/我的砍价/u3449.png"/>
+        <!-- Unnamed () -->
+        <div id="u3450" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u3451" class="ax_default _图像">
+        <img id="u3451_img" class="img " src="images/我的砍价/u3451.png"/>
+        <!-- Unnamed () -->
+        <div id="u3452" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u3453" class="ax_default _图像">
+        <img id="u3453_img" class="img " src="images/我的砍价/u3451.png"/>
+        <!-- Unnamed () -->
+        <div id="u3454" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3455" class="ax_default _文本">
+        <div id="u3455_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3456" class="text">
+          <p><span>Activity places：3</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3457" class="ax_default _文本">
+        <div id="u3457_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3458" class="text">
+          <p><span>Still remain：1个</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u3459" class="ax_default icon">
+        <img id="u3459_img" class="img " src="images/我的砍价/u3459.png"/>
+        <!-- Unnamed () -->
+        <div id="u3460" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3461" class="ax_default box_11">
+        <div id="u3461_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3462" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u3463" class="ax_default placeholder">
+        <img id="u3463_img" class="img " src="images/申领产品详情页/u1432.png"/>
+        <!-- Unnamed () -->
+        <div id="u3464" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3465" class="ax_default box_1">
+        <div id="u3465_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3466" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产...</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3467" class="ax_default box_1">
+        <div id="u3467_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3468" class="text">
+          <p><span style="color:#FF3300;">原价USD 88888.88</span><span style="color:#CCCCCC;">/Piece</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3469" class="ax_default _文本">
+        <div id="u3469_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3470" class="text">
+          <p><span>Time：2017.01.09~2017.06.30</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u3471" class="ax_default _图像">
+        <img id="u3471_img" class="img " src="images/我的砍价/u3439.png"/>
+        <!-- Unnamed () -->
+        <div id="u3472" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3473" class="ax_default box_1">
+        <div id="u3473_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3474" class="text">
+          <p><span>40人</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3475" class="ax_default box_1">
+        <div id="u3475_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3476" class="text">
+          <p><span style="color:#FF3300;">USD 2222.88</span><span style="color:#CCCCCC;">/Piece</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3477" class="ax_default box_1">
+        <div id="u3477_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3478" class="text">
+          <p><span>60人</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3479" class="ax_default box_1">
+        <div id="u3479_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3480" class="text">
+          <p><span style="color:#FF3300;">USD 1000.88</span><span style="color:#CCCCCC;">/Piece</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u3481" class="ax_default line">
+        <img id="u3481_img" class="img " src="images/我的砍价/u3449.png"/>
+        <!-- Unnamed () -->
+        <div id="u3482" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u3483" class="ax_default _图像">
+        <img id="u3483_img" class="img " src="images/我的砍价/u3451.png"/>
+        <!-- Unnamed () -->
+        <div id="u3484" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u3485" class="ax_default _图像">
+        <img id="u3485_img" class="img " src="images/我的砍价/u3451.png"/>
+        <!-- Unnamed () -->
+        <div id="u3486" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3487" class="ax_default _文本">
+        <div id="u3487_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3488" class="text">
+          <p><span>活动名额：3个</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3489" class="ax_default _文本">
+        <div id="u3489_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3490" class="text">
+          <p><span>目前还剩：1个</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u3491" class="ax_default icon">
+        <img id="u3491_img" class="img " src="images/我的砍价/u3459.png"/>
+        <!-- Unnamed () -->
+        <div id="u3492" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3493" class="ax_default _标题1">
+        <div id="u3493_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3494" class="text">
+          <p><span>Bargain I helped</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3495" class="ax_default _文本">
+        <div id="u3495_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3496" class="text">
+          <p><span>Time Limit</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3497" class="ax_default box_11">
+        <img id="u3497_img" class="img " src="images/我的拼团/u1235.png"/>
+        <!-- Unnamed () -->
+        <div id="u3498" class="text">
+          <p><span>23</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3499" class="ax_default _文本">
+        <div id="u3499_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3500" class="text">
+          <p><span>:</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3501" class="ax_default box_11">
+        <img id="u3501_img" class="img " src="images/我的拼团/u1235.png"/>
+        <!-- Unnamed () -->
+        <div id="u3502" class="text">
+          <p><span>59</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3503" class="ax_default _文本">
+        <div id="u3503_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3504" class="text">
+          <p><span>:</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3505" class="ax_default box_11">
+        <img id="u3505_img" class="img " src="images/我的拼团/u1239.png"/>
+        <!-- Unnamed () -->
+        <div id="u3506" class="text">
+          <p><span style="color:#FFFFFF;">59.</span><span style="color:#FF0000;">9</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3507" class="ax_default _文本">
+        <div id="u3507_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3508" class="text">
+          <p><span>Activity is going on, but still lack 18 person.</span></p><p><span>&nbsp;Quickly invited friends to bargain it!</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3509" class="ax_default box_11">
+        <div id="u3509_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3510" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u3511" class="ax_default ellipse">
+        <img id="u3511_img" class="img " src="images/店铺列表/u595.png"/>
+        <!-- Unnamed () -->
+        <div id="u3512" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3513" class="ax_default _文本">
+        <div id="u3513_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3514" class="text">
+          <p><span>小刘&nbsp; 2017.01.23:10:23:52Succeed in the bargain rights</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u3515" class="ax_default icon">
+        <img id="u3515_img" class="img " src="images/申领产品详情页/u1385.png"/>
+        <!-- Unnamed () -->
+        <div id="u3516" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u3517" class="ax_default line">
+        <img id="u3517_img" class="img " src="images/我的砍价/u3517.png"/>
+        <!-- Unnamed () -->
+        <div id="u3518" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3519" class="ax_default _文本">
+        <div id="u3519_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3520" class="text">
+          <p><span>I have got 50 points</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3521" class="ax_default box_11">
+        <img id="u3521_img" class="img " src="images/我的拼团/u1235.png"/>
+        <!-- Unnamed () -->
+        <div id="u3522" class="text">
+          <p><span>23</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3523" class="ax_default _文本">
+        <div id="u3523_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3524" class="text">
+          <p><span>:</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3525" class="ax_default box_11">
+        <img id="u3525_img" class="img " src="images/我的拼团/u1235.png"/>
+        <!-- Unnamed () -->
+        <div id="u3526" class="text">
+          <p><span>59</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3527" class="ax_default _文本">
+        <div id="u3527_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3528" class="text">
+          <p><span>:</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3529" class="ax_default box_11">
+        <img id="u3529_img" class="img " src="images/我的拼团/u1239.png"/>
+        <!-- Unnamed () -->
+        <div id="u3530" class="text">
+          <p><span style="color:#FFFFFF;">59.</span><span style="color:#FF0000;">9</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3531" class="ax_default _文本">
+        <div id="u3531_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3532" class="text">
+          <p><span>Activity is going on, but still lack 18 person.</span></p><p><span>&nbsp;Quickly invited friends to bargain it!</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3533" class="ax_default box_11">
+        <div id="u3533_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3534" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3535" class="ax_default _标题1">
+        <div id="u3535_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3536" class="text">
+          <p><span>Succeeded bargain price</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (占位符) -->
+      <div id="u3537" class="ax_default placeholder">
+        <img id="u3537_img" class="img " src="images/申领产品详情页/u1432.png"/>
+        <!-- Unnamed () -->
+        <div id="u3538" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3539" class="ax_default box_1">
+        <div id="u3539_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3540" class="text">
+          <p><span>产品名称产品名称产品名称产品名称产品名称产...</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3541" class="ax_default box_1">
+        <div id="u3541_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3542" class="text">
+          <p><span style="color:#FF3300;">Original Price USD 88888.88</span><span style="color:#CCCCCC;">/Piece</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (横线) -->
+      <div id="u3543" class="ax_default line">
+        <img id="u3543_img" class="img " src="images/我的砍价/u3543.png"/>
+        <!-- Unnamed () -->
+        <div id="u3544" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3545" class="ax_default primary_button">
+        <div id="u3545_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3546" class="text">
+          <p><span>Give up</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3547" class="ax_default box_1">
+        <div id="u3547_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3548" class="text">
+          <p><span style="color:#FF3300;">Present PiceUSD 12366.88</span><span style="color:#CCCCCC;">/Piece</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3549" class="ax_default primary_button">
+        <div id="u3549_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3550" class="text">
+          <p><span>Pay now</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3551" class="ax_default box_11">
+        <img id="u3551_img" class="img " src="images/我的拼团/u1235.png"/>
+        <!-- Unnamed () -->
+        <div id="u3552" class="text">
+          <p><span>23</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3553" class="ax_default _文本">
+        <div id="u3553_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3554" class="text">
+          <p><span>:</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3555" class="ax_default box_11">
+        <img id="u3555_img" class="img " src="images/我的拼团/u1235.png"/>
+        <!-- Unnamed () -->
+        <div id="u3556" class="text">
+          <p><span>59</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3557" class="ax_default _文本">
+        <div id="u3557_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3558" class="text">
+          <p><span>:</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3559" class="ax_default box_11">
+        <img id="u3559_img" class="img " src="images/我的拼团/u1239.png"/>
+        <!-- Unnamed () -->
+        <div id="u3560" class="text">
+          <p><span style="color:#FFFFFF;">59.</span><span style="color:#FF0000;">9</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3561" class="ax_default _文本">
+        <div id="u3561_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3562" class="text">
+          <p><span>The remaining payment time </span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3563" class="ax_default primary_button">
+        <div id="u3563_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3564" class="text">
+          <p><span>Give up</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3565" class="ax_default sticky_2">
+        <div id="u3565_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3566" class="text">
+          <p><span>跳转支付选择页面</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3567" class="ax_default sticky_2">
+        <div id="u3567_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3568" class="text">
+          <p><span>弹出二次确认框文案：“请确认放弃此次优惠权？”确认回收砍价权并刷新本页面</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3569" class="ax_default sticky_2">
+        <div id="u3569_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3570" class="text">
+          <p><span>弹出二次确认框文案：“请确认放弃砍价权？”确认回收砍价权并刷新本页面</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u3571" class="ax_default icon">
+        <img id="u3571_img" class="img " src="images/店铺列表/u597.png"/>
+        <!-- Unnamed () -->
+        <div id="u3572" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u3573" class="ax_default icon">
+        <img id="u3573_img" class="img " src="images/我的砍价/u3459.png"/>
+        <!-- Unnamed () -->
+        <div id="u3574" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3575" class="ax_default sticky_2">
+        <div id="u3575_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3576" class="text">
+          <p><span>跳转该砍价活动详情页</span></p>
+        </div>
+      </div>
+
+      <!-- alarm (形状) -->
+      <div id="u3577" class="ax_default shape" data-label="alarm">
+        <img id="u3577_img" class="img " src="images/我的砍价/alarm_u3577.png"/>
+        <!-- Unnamed () -->
+        <div id="u3578" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3579" class="ax_default sticky_2">
+        <div id="u3579_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3580" class="text">
+          <p><span>跳转到订单确认页面（砍价）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (椭圆) -->
+      <div id="u3581" class="ax_default ellipse">
+        <img id="u3581_img" class="img " src="images/我的砍价/u3581.png"/>
+        <!-- Unnamed () -->
+        <div id="u3582" class="text">
+          <p><span>No.2</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u3583" class="ax_default" data-left="62" data-top="627" data-width="235" data-height="40">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u3584" class="ax_default primary_button">
+          <div id="u3584_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u3585" class="text">
+            <p><span>I want to share</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (图像) -->
+        <div id="u3586" class="ax_default _图像">
+          <img id="u3586_img" class="img " src="images/分享页面/u3074.png"/>
+          <!-- Unnamed () -->
+          <div id="u3587" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u3588" class="ax_default" data-left="62" data-top="1019" data-width="235" data-height="40">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u3589" class="ax_default primary_button">
+          <div id="u3589_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u3590" class="text">
+            <p><span>我要分享</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (图像) -->
+        <div id="u3591" class="ax_default _图像">
+          <img id="u3591_img" class="img " src="images/分享页面/u3074.png"/>
+          <!-- Unnamed () -->
+          <div id="u3592" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3593" class="ax_default _文本">
+        <div id="u3593_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3594" class="text">
+          <p><span>Please confirm to waive this preferential right</span></p>
+        </div>
+      </div>
+
+      <!-- alarm (形状) -->
+      <div id="u3595" class="ax_default shape" data-label="alarm">
+        <img id="u3595_img" class="img " src="images/我的砍价/alarm_u3577.png"/>
+        <!-- Unnamed () -->
+        <div id="u3596" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3597" class="ax_default _文本">
+        <div id="u3597_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3598" class="text">
+          <p><span>Activity places：3</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3599" class="ax_default _文本">
+        <div id="u3599_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3600" class="text">
+          <p><span>Still remain：1个</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3601" class="ax_default _文本">
+        <div id="u3601_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3602" class="text">
+          <p><span>Time：2017.01.09~2017.06.30</span></p>
+        </div>
+      </div>
+
+      <!-- alarm (形状) -->
+      <div id="u3603" class="ax_default shape" data-label="alarm">
+        <img id="u3603_img" class="img " src="images/我的砍价/alarm_u3577.png"/>
+        <!-- Unnamed () -->
+        <div id="u3604" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3605" class="ax_default box_1">
+        <div id="u3605_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3606" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3607" class="ax_default box_1">
+        <div id="u3607_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3608" class="text">
+          <p><span>Bargain price</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) [footnote] -->
+      <div id="u3607_ann" class="annotation"></div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u3609" class="ax_default _图像">
+        <img id="u3609_img" class="img " src="images/卖场页面/u401.png"/>
+        <!-- Unnamed () -->
+        <div id="u3610" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3611" class="ax_default box_11">
+        <div id="u3611_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3612" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3613" class="ax_default _标题1">
+        <div id="u3613_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3614" class="text">
+          <p><span>如此有趣的砍价活动你还没参加过呢！</span></p><p><span>赶快去玩玩吧！</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u3615" class="ax_default" data-left="64" data-top="1512" data-width="235" data-height="40">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u3616" class="ax_default primary_button">
+          <div id="u3616_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u3617" class="text">
+            <p><span>去玩玩</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3618" class="ax_default sticky_2">
+        <div id="u3618_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u3619" class="text">
+          <p><span>参加过，活动已经结束的活动不在展示。</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
